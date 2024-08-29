@@ -25,5 +25,5 @@ Style buttons and UI elements with the [Sprout Lands UI Pack](https://cupnooble.
     2.  Another window will appear asking to set the projects custom theme.
 
 ## Links
-[Attribution](/addons/sprout_land_ui/ATTRIBUTION.md)  
-[Code License](/addons/sprout_land_ui/LICENSE.txt)  
+[Attribution](/addons/sprout_lands_ui/ATTRIBUTION.md)  
+[Code License](/addons/sprout_lands_ui/LICENSE.txt)  
