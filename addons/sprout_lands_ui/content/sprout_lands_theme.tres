@@ -1,38 +1,29 @@
-[gd_resource type="Theme" load_steps=71 format=3 uid="uid://bmf31mho1mjjt"]
+[gd_resource type="Theme" load_steps=40 format=3 uid="uid://bmf31mho1mjjt"]
 
 [ext_resource type="Texture2D" uid="uid://bef816edvcpop" path="res://addons/sprout_lands_ui/content/assets/Sprite sheet for Basic Pack.png" id="1_35fd2"]
-
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_8r022"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_w4jy1"]
 content_margin_left = 8.0
 content_margin_top = 8.0
 content_margin_right = 8.0
 content_margin_bottom = 8.0
-texture = SubResource("CompressedTexture2D_8r022")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 4.0
 texture_margin_top = 4.0
 texture_margin_right = 4.0
 texture_margin_bottom = 4.0
 region_rect = Rect2(63, 111, 18, 18)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_ppko1"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_ytkor"]
-texture = SubResource("CompressedTexture2D_ppko1")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 6.0
 texture_margin_top = 9.0
 texture_margin_right = 6.0
 texture_margin_bottom = 6.0
 region_rect = Rect2(375, 5, 18, 20)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_mef3n"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_7ctvm"]
-texture = SubResource("CompressedTexture2D_mef3n")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 8.0
 texture_margin_top = 9.0
 texture_margin_right = 8.0
@@ -43,11 +34,8 @@ expand_margin_right = 4.0
 expand_margin_bottom = 4.0
 region_rect = Rect2(180, 148, 24, 25)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_2x107"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_krtg3"]
-texture = SubResource("CompressedTexture2D_2x107")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 6.0
 texture_margin_top = 8.0
 texture_margin_right = 6.0
@@ -62,38 +50,26 @@ texture_margin_right = 6.0
 texture_margin_bottom = 9.0
 region_rect = Rect2(311, 101, 18, 20)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_yqs8j"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_h462y"]
-texture = SubResource("CompressedTexture2D_yqs8j")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 6.0
 texture_margin_top = 10.0
 texture_margin_right = 6.0
 texture_margin_bottom = 6.0
 region_rect = Rect2(375, 100, 18, 21)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_ab7fw"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_43wcw"]
-atlas = SubResource("CompressedTexture2D_ab7fw")
+atlas = ExtResource("1_35fd2")
 region = Rect2(242, 67, 12, 12)
 margin = Rect2(4, 4, 6, 0)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_tb0ab"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_l7reh"]
-atlas = SubResource("CompressedTexture2D_tb0ab")
+atlas = ExtResource("1_35fd2")
 region = Rect2(242, 82, 12, 12)
 margin = Rect2(4, 0, 8, 2)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_kej3f"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_6gpgw"]
-texture = SubResource("CompressedTexture2D_kej3f")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 4.0
 texture_margin_top = 3.0
 texture_margin_right = 4.0
@@ -102,11 +78,8 @@ expand_margin_top = 3.0
 expand_margin_bottom = 2.0
 region_rect = Rect2(247, 164, 18, 8)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_k7fbb"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_22jjy"]
-texture = SubResource("CompressedTexture2D_k7fbb")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 4.0
 texture_margin_top = 3.0
 texture_margin_right = 4.0
@@ -115,11 +88,8 @@ expand_margin_top = 3.0
 expand_margin_bottom = 2.0
 region_rect = Rect2(247, 148, 18, 8)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_2of72"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_m2s22"]
-texture = SubResource("CompressedTexture2D_2of72")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 4.0
 texture_margin_top = 3.0
 texture_margin_right = 4.0
@@ -128,11 +98,8 @@ expand_margin_top = 3.0
 expand_margin_bottom = 2.0
 region_rect = Rect2(247, 132, 18, 8)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_m5117"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_ia7ny"]
-texture = SubResource("CompressedTexture2D_m5117")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 2.0
 texture_margin_top = 2.0
 texture_margin_right = 2.0
@@ -141,39 +108,24 @@ expand_margin_top = 3.0
 expand_margin_bottom = 2.0
 region_rect = Rect2(277, 166, 38, 4)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_g2541"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_1pgc0"]
-atlas = SubResource("CompressedTexture2D_g2541")
+atlas = ExtResource("1_35fd2")
 region = Rect2(375, 71, 18, 20)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_50v8f"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_w81rj"]
-atlas = SubResource("CompressedTexture2D_50v8f")
+atlas = ExtResource("1_35fd2")
 region = Rect2(375, 7, 18, 20)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_h1nw1"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_pu3vw"]
-atlas = SubResource("CompressedTexture2D_h1nw1")
+atlas = ExtResource("1_35fd2")
 region = Rect2(343, 38, 18, 20)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_2ho3t"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_i5hmu"]
-atlas = SubResource("CompressedTexture2D_2ho3t")
+atlas = ExtResource("1_35fd2")
 region = Rect2(292, 35, 8, 5)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_ocfjj"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_y4yfd"]
-texture = SubResource("CompressedTexture2D_ocfjj")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 2.0
 texture_margin_top = 3.0
 texture_margin_right = 2.0
@@ -183,7 +135,7 @@ expand_margin_bottom = 3.0
 region_rect = Rect2(466, 73, 28, 14)
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_4r8ma"]
-texture = SubResource("CompressedTexture2D_g2541")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 2.0
 texture_margin_top = 3.0
 texture_margin_right = 2.0
@@ -192,11 +144,8 @@ expand_margin_top = 3.0
 expand_margin_bottom = 3.0
 region_rect = Rect2(402, 73, 28, 14)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_17a01"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_w6s65"]
-texture = SubResource("CompressedTexture2D_17a01")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 1.0
 texture_margin_top = 1.0
 texture_margin_right = 1.0
@@ -230,74 +179,53 @@ texture_margin_right = 2.0
 texture_margin_bottom = 2.0
 region_rect = Rect2(402, 73, 28, 14)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_tygud"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_b5k0e"]
-texture = SubResource("CompressedTexture2D_tygud")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 6.0
 texture_margin_top = 8.0
 texture_margin_right = 6.0
 texture_margin_bottom = 8.0
 region_rect = Rect2(343, 68, 18, 21)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_8l3mq"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_0dk3e"]
-texture = SubResource("CompressedTexture2D_8l3mq")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 6.0
 texture_margin_top = 6.0
 texture_margin_right = 6.0
 texture_margin_bottom = 9.0
 region_rect = Rect2(311, 69, 18, 20)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_egnfu"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_f8y6s"]
-texture = SubResource("CompressedTexture2D_egnfu")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 6.0
 texture_margin_top = 10.0
 texture_margin_right = 6.0
 texture_margin_bottom = 6.0
 region_rect = Rect2(375, 68, 18, 21)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_du1jg"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_a7ncx"]
-texture = SubResource("CompressedTexture2D_du1jg")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 6.0
 texture_margin_top = 9.0
 texture_margin_right = 6.0
 region_rect = Rect2(375, 101, 18, 14)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_eowac"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_pkuo0"]
-texture = SubResource("CompressedTexture2D_eowac")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 6.0
 texture_margin_top = 6.0
 texture_margin_right = 6.0
 region_rect = Rect2(375, 72, 18, 11)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_w1443"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_vgud8"]
-texture = SubResource("CompressedTexture2D_w1443")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 6.0
 texture_margin_top = 6.0
 texture_margin_right = 6.0
 region_rect = Rect2(311, 69, 18, 11)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_q832a"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_qdddf"]
-texture = SubResource("CompressedTexture2D_q832a")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 6.0
 texture_margin_top = 9.0
 texture_margin_right = 6.0
@@ -305,11 +233,8 @@ region_rect = Rect2(375, 69, 18, 14)
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_02d5e"]
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_7rkp3"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_m0caa"]
-texture = SubResource("CompressedTexture2D_7rkp3")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 3.0
 texture_margin_top = 4.0
 texture_margin_right = 3.0
@@ -317,11 +242,8 @@ texture_margin_bottom = 5.0
 expand_margin_left = 1.0
 region_rect = Rect2(277, 133, 7, 18)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_q8ljk"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_241c5"]
-texture = SubResource("CompressedTexture2D_q8ljk")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 3.0
 texture_margin_top = 4.0
 texture_margin_right = 3.0
@@ -329,11 +251,8 @@ texture_margin_bottom = 5.0
 expand_margin_left = 1.0
 region_rect = Rect2(293, 133, 7, 18)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_tc71f"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_ta4qm"]
-texture = SubResource("CompressedTexture2D_tc71f")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 3.0
 texture_margin_top = 4.0
 texture_margin_right = 3.0
@@ -341,11 +260,8 @@ texture_margin_bottom = 5.0
 expand_margin_left = 1.0
 region_rect = Rect2(309, 133, 7, 18)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_r1xr2"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_si1xo"]
-texture = SubResource("CompressedTexture2D_r1xr2")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 3.0
 texture_margin_top = 3.0
 texture_margin_right = 3.0
@@ -355,25 +271,16 @@ region_rect = Rect2(326, 133, 4, 38)
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_iefc1"]
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_xmx1f"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_kk8tp"]
-atlas = SubResource("CompressedTexture2D_xmx1f")
+atlas = ExtResource("1_35fd2")
 region = Rect2(818, 226, 12, 12)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_l0rwh"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_kydnu"]
-atlas = SubResource("CompressedTexture2D_l0rwh")
+atlas = ExtResource("1_35fd2")
 region = Rect2(674, 226, 12, 12)
 
-[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_4tv5n"]
-load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-0f928c627b472588e7480dbd82d8143f.ctex"
-
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_2bxh0"]
-texture = SubResource("CompressedTexture2D_4tv5n")
+texture = ExtResource("1_35fd2")
 texture_margin_left = 4.0
 texture_margin_top = 4.0
 texture_margin_right = 4.0
